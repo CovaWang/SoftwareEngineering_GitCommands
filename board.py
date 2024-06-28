@@ -1,6 +1,7 @@
 import numpy as np
 import copy
 # gitR11 C4file3
+# gitR12 B3file3
 
 class Chessboard:
     def __init__(self):
